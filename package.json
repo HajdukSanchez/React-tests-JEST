@@ -1,0 +1,29 @@
+{
+  "name": "11-testing_jest-react",
+  "version": "1.0.0",
+  "description": "React tests with JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HajdukSanchez/React-tests-JEST.git"
+  },
+  "keywords": [
+    "jest",
+    "react"
+  ],
+  "author": "Jozek Andrzej Hajduk Sánchez <hajduksanchez.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HajdukSanchez/React-tests-JEST/issues"
+  },
+  "homepage": "https://github.com/HajdukSanchez/React-tests-JEST#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.24"
+  }
+}
