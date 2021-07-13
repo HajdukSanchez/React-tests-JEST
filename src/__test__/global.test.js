@@ -53,7 +53,8 @@ test('should async/await works', async () => {
   expect(string).toBe('olleh')
 })
 
-afterEach(() => console.log('After each test'))
+/* afterEach(() => console.log('After each test'))
 afterAll(() => console.log('After all tests'))
 beforeEach(() => console.log('Before each test'))
 beforeAll(() => console.log('Before all tests'))
+ */
